@@ -1,0 +1,22 @@
+a {
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    font-weight: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: blueviolet;
+    opacity: 0.5;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: blue;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: conter;
+    color: blueviolet;
+}
