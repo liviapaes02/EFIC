@@ -1,33 +1,3 @@
-a {
-    text-align: center;
-    font-size: 14px;
-    color: black;
-    font-weight: center;
-}
-h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: left;
-    color: blueviolet;
-    opacity: 0.5;
-}
-h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: left;
-    color: blue;
-}
-h3{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: conter;
-    color: blueviolet;
-}
-
-h4{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    color: blue;
-    font-size: 25px;
-}
-
     /* Grid */
     .grid {
         display: grid;
@@ -123,8 +93,23 @@ h4{
         text-align: center;
         font-size: 1.5em;
         }
+        
         .grid {
-            max-width: 1000px;
-            margin: 0 auto;
-            border: 3px solid blue;
-            }
+        max-width: 1000px;
+        margin: 0 auto;
+        border: 3px solid blue;
+        }
+        
+        h1 {
+        text-align: center;
+        font-size: 2em;
+        font-weight: normal;
+        color: blue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        body {
+        padding-bottom: 60px;
+        margin: 0px;
+        padding: 40px 0;
+        }
